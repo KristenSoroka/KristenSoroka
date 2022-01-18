@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on Scrimba's 'Learn Python for Free' course and Tech with Tim's youtube video, '5 mini python projects'.
 - 👯 I’m looking to meet other programmers and expand my network
 
-https://www.codewars.com/users/KristenSoroka/badges/large
+<img src='https://www.codewars.com/users/KristenSoroka/badges/large'/>
+
+
 <!--
 **KristenSoroka/KristenSoroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
